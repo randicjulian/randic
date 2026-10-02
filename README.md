@@ -1,0 +1,2 @@
+# randic
+project
