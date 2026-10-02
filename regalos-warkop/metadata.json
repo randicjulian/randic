@@ -1,0 +1,6 @@
+{
+  "name": "Regalos Warkop",
+  "description": "Aplikasi web Regalos Warkop dengan menu digital, sistem kasir (POS), pembayaran QRIS, dan live chat tawk.to.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
