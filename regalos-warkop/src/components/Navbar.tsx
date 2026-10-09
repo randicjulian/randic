@@ -106,10 +106,12 @@ export const Navbar: React.FC<NavbarProps> = ({
                   <option value="Meja 05" className="bg-stone-900 text-stone-100">Meja 05</option>
                   <option value="Meja 06" className="bg-stone-900 text-stone-100">Meja 06</option>
                   <option value="Meja 07" className="bg-stone-900 text-stone-100">Meja 07</option>
-                  <option value="Lesehan A" className="bg-stone-900 text-stone-100">Lesehan A</option>
-                  <option value="Lesehan B" className="bg-stone-900 text-stone-100">Lesehan B</option>
-                  <option value="Area Bar" className="bg-stone-900 text-stone-100">Area Bar</option>
-                  <option value="Takeaway" className="bg-stone-900 text-stone-100">Bungkus (Takeaway)</option>
+                  <option value="Outdoor" className="bg-stone-900 text-stone-100">Outdoor LT3 Meja 1</option>
+                  <option value="Outdoor" className="bg-stone-900 text-stone-100">Outdoor LT3 Meja 2</option>
+                  <option value="Outdoor" className="bg-stone-900 text-stone-100">Outdoor L3 Meja 3</option>
+                  <option value="Outdoor" className="bg-stone-900 text-stone-100">Outdoor LT3 Meja 4</option>
+                  <option value="TakeAway" className="bg-stone-900 text-stone-100">TakeAway (Bungkus)</option>
+
                 </select>
               </div>
             )}
